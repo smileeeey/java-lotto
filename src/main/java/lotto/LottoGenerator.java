@@ -1,4 +1,4 @@
-package autoLotto;
+package lotto;
 
 import java.util.Collections;
 import java.util.HashSet;

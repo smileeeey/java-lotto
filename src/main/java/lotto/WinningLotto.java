@@ -1,6 +1,4 @@
-package autoLotto;
-
-import java.util.Set;
+package lotto;
 
 public class WinningLotto extends Lotto {
 

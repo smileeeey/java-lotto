@@ -1,4 +1,4 @@
-package autoLotto;
+package lotto;
 
 import java.util.Arrays;
 import java.util.Set;
